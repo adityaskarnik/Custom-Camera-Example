@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Custom Camera Example</string>
+    <string name="start">Start</string>
+    <string name="preview">Preview</string>
+    <string name="folderName">com.aditya.adityapc</string>
+    <string name="stop">STOP</string>
+</resources>
